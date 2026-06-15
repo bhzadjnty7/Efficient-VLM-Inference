@@ -3,8 +3,8 @@ Implementation and evaluation of VL-Cache, a modality-aware KV cache compression
 
 ---
 ## Author
-Name: Behzad jannati
-
+Name: Behzad Jannati
+Name: Farzad Jannati
 ---
 ## ⭐️ Support
 
